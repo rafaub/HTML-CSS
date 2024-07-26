@@ -2,7 +2,7 @@
 
 /*ESTILO PARA IMPRESSORAS*/
 
-*{
+* {
     margin: 10px;
     padding: 10px;
 }
@@ -13,12 +13,13 @@ html {
     line-height: 1.5em;
     line-height: 1.5em;
 }
+
 menu {
     display: nome;
 }
 
 article {
-width: 100%;
+    width: 100%;
 }
 
 article::after {
